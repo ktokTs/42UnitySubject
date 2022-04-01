@@ -18,5 +18,6 @@ Shift＋ドラッグ　移動
 パズルのオブジェクトをクリック　操作対象を変更
 
 
-
+WebGLページ　※MacOS（おそらくM1チップのみ）では影がうまく表示されません。
+https://ktokts.github.io/42UnitySubject/
 
