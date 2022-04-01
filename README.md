@@ -19,5 +19,6 @@ Shift＋ドラッグ　移動
 
 
 WebGLページ　※MacOS（おそらくM1チップのみ）では影がうまく表示されません。
+
 https://ktokts.github.io/42UnitySubject/
 
